@@ -57,6 +57,4 @@ MIT (или другая по выбору)
 ---
 
 ## Контакты
-Разработчик: *[Твоё имя / команда]*  
-Email: *example@mail.com*  
-GitHub: [https://github.com/yourorg](https://github.com/yourorg)
+
