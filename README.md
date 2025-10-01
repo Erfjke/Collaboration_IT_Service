@@ -16,12 +16,15 @@
 ### Архитектура
 - **C4-модель**
   - Контейнерный уровень диаграммы C4 
+  
   <img width="705" height="818" alt="image" src="https://github.com/user-attachments/assets/fa82cfca-64fd-4066-bc88-9d667886c918" />
+  
   - Компонентный уровень диаграммы C4 
+  
   <img width="974" height="574" alt="image" src="https://github.com/user-attachments/assets/82126a70-e1b6-42f9-b6e6-c447e5a6eaf9" />
 
   - Кодовый уровень диаграммы C4
-  - <img width="974" height="397" alt="image" src="https://github.com/user-attachments/assets/3853d3da-fde7-4b69-b6f7-98519e1871d2" />
+  <img width="974" height="397" alt="image" src="https://github.com/user-attachments/assets/3853d3da-fde7-4b69-b6f7-98519e1871d2" />
 
 - **Схема данных**
 
